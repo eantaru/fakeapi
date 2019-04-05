@@ -11,6 +11,19 @@
       "image_link": ""
     }
   ],
+  "favorites":[
+    {
+      "id": 1
+    },
+    {
+      "id": 2
+    }
+  ],
+  "home_softbeauty": [
+    {
+      "id": 1
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
