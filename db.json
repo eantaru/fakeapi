@@ -2,8 +2,9 @@
   "carousel": [
     {
       "id": 1,
-      "title": "hello"
       "title": "hello",
+      "image_link": ""
+    },
     {
       "id": 2,
       "title": "flowers",
@@ -64,9 +65,6 @@
     {
       "id": 1
     }
-  ],
-  "comments":[
-
   ],
   "profile": {
     "name": "typicode"
