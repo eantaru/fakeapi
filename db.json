@@ -1,9 +1,72 @@
 {
-  "posts": [
+  "carousel": [
     {
       "id": 1,
       "title": "hello"
+      "title": "hello",
+    {
+      "id": 2,
+      "title": "flowers",
+      "image_link": ""
     }
+  ],
+  "favorites":[
+    {
+      "id": 1,
+      "base_three":[
+        {
+          "id": 1,
+          "title": "LOVELY",
+          "clip": "the most loved",
+          "image_link": ""
+        },
+        {
+          "id": 2,
+          "title": "BEST SELLER",
+          "image_link": ""
+        },
+        {
+          "id": 3,
+          "title": "SALE!",
+          "image_link": ""
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "base_four":[
+        {
+          "id": 1,
+          "title": "LOVELY",
+          "clip": "the most loved",
+          "image_link": ""
+        },
+        {
+          "id": 2,
+          "title": "BEST SELLER",
+          "image_link": ""
+        },
+        {
+          "id": 3,
+          "title": "SALE!",
+          "image_link": ""
+        },
+        {
+          "id": 4,
+          "title": "SUMMER 2019",
+          "clip": "Koleksi-koleksi terbaru",
+          "image_link": ""
+        }
+      ]
+    }
+  ],
+  "home_softbeauty": [
+    {
+      "id": 1
+    }
+  ],
+  "comments":[
+
   ],
   "profile": {
     "name": "typicode"
